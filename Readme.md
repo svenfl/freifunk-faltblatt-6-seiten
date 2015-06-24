@@ -1,4 +1,4 @@
-Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage ist für die Community Flensburg angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 Um das Layout anzupassen muss nur der Titel geändert werden und die Rückseite. Alle anderen Seiten sind Community-unspezifish und können so bleiben wie sie sind.
 

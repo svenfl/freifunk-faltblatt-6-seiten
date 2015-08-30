@@ -62,8 +62,8 @@ Obere Reihe
 ---
 **Häufige Fragen**
 
-**Ist das sicher für mich?**
-Ja! Der Datenverkehr aus dem Freifunk-Netz ist vollständig vom eigenen Netz bzw. Com­pu­ter ge­trennt.
+**Bleibt mein eigenes Netz geschützt?**
+Ja! Freifunk-Gäste bekommen keinen Zugriff auf dein eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
 
 **Kann ich meinen Anschluss weiter nutzen?**
 Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
@@ -75,10 +75,7 @@ Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-R
 ---
 **Mitmachen - Austauschen**
 
-* Webseite      http://kiel.freifunk.net/
-* Online Chat   auf unserer Webseite!
-* Mail          freifunk@in-kiel.de
-* Twitter       @ff_kiel
+* je nach Community
 
 **Abschnitt 3 (Front)**
 ---
@@ -94,7 +91,7 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet Grundversorgung**.
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung**.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
@@ -105,10 +102,10 @@ Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabh
 ---
 **Router für 15 €**
 
-1. Freifunk Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
-2. Freifunk-Software aufspielen (Anleitungen dazu ...)
-3. Freifunk-Router mit privatem Router verbinden.
-4. Freifunk-Router aufstellen (möglichst in Fensternähe)
+1. Kompatiblen Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
+2. Freifunk-Software aufspielen Anleitung: htttp://deine-community.freifunk.net
+3. Freifunk-Router aufstellen (möglichst in Fensternähe)  
+   Optional: mit deinem Internetanschluss verbinden
 
 WLAN wird für jeden ohne Störerhaftung freigegeben!
 
@@ -126,7 +123,8 @@ Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz l
     
 -- Schaubild --
 
-Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
+Fazit:  
+Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
 
 
 ---
